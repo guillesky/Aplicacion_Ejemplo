@@ -22,4 +22,8 @@ public class Persona
     {
         return nombre;
     }
+    public int getUnOcho()
+    {
+        return 8;
+        }
 }
