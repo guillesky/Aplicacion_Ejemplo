@@ -18,9 +18,7 @@ public class Alumno extends Persona
 
     public boolean metodo()
     {
-        //algun cambio necesario
-        //para para resolver los conflictos
-        //entre branches
-        return false;
+        //Se cambio para que retorne true.
+        return true;
 }
 }
